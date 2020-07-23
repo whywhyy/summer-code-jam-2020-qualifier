@@ -1,3 +1,10 @@
+
+## solution : solution.py (https://github.com/python-discord/summer-code-jam-2020-qualifier/blob/master/solution.py)
+
+## 내 정답 : qualifier.py
+
+---
+
 # Summer Code Jam 2020: Qualifier
 
 To qualify for the upcoming Summer Code Jam, you'll have to complete a qualifier assignment. For the assignment, you'll have to write an `Article` class that could be used to represent an article published on a website.
